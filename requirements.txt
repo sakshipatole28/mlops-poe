@@ -1,4 +1,1 @@
 pytest
-pandas
-scikit-learn
-evidently==0.4.40
